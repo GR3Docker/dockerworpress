@@ -1,4 +1,4 @@
-# Installation de l'environnement wordpress:mysql
+# Installation de l'environnement wordpress mysql
 Cette environnment permet de dévelloper sur le langage PHP
 ## Installation de Docker
 ### Telecharger Docker:
@@ -7,9 +7,9 @@ Cette environnment permet de dévelloper sur le langage PHP
   
   Si votre sytème est sous linux / mac os /windows 10 pro : https://www.docker.com/
   
-  Une fois télecharger installer le et laisser les parametre par défaut.
+  Une fois télecharger, installer le et laisser les paramètre par défaut.
   
-### Installation de l'image <toto/wordpress:mysql>:
+### Installation de l'environnement wordpress mysql :
   
   Creer un répertoire avec le nom de l'image.
   
