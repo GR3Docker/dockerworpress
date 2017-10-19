@@ -1,0 +1,16 @@
+version: "3.3"
+
+services:
+    mariadb:
+        image: mariadb
+        container_name: mariadb2
+        environment:
+            - MYSQL_ROOT_PASSWORD=root
+
+    wordpress:
+        image: wordpress
+        container_name: wordpress2
+        links:
+            - mariadb:mysql
+        ports:
+            - "8080:80"
