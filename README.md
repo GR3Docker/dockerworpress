@@ -29,7 +29,7 @@ Cet environnement permet de développer sur le langage PHP
   #/> docker-compose up -d //cette commande permet de lancer les containers concernés
   ```
   
-  Une fois lancer, vous pouvais aller sur votre navigateur et taper l'adresse suivante pour vous connectez sur votre environnment:
+  Une fois lancé, vous pouvez aller sur votre navigateur et taper l'adresse suivante pour vous connectez sur votre environnment:
   
     -Windows 7/8/10 famillial : 192.168.99.100:8080
     
